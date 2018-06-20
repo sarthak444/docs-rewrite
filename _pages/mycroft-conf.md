@@ -252,7 +252,7 @@ and here is an example `mycroft.conf` file from Mycroft for Linux, User-level:
     "test": false
   },
 
-  // Level of logs to store, one of  "CRITICAL", "ERROR", "WARNGIN", "INFO", "DEBUG"
+  // Level of logs to store, one of  "CRITICAL", "ERROR", "WARNING", "INFO", "DEBUG"
   // Override: none
   "log_level": "DEBUG",
   
